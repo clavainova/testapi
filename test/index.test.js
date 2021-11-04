@@ -1,8 +1,8 @@
 const assert = require("assert");
-const addFn = reqiure("../index.js");
+const addFn = require("../index.js");
 
 describe("TestAdd", function () {
-    it("should return 10"), function () {
-        assert.equal(addFn.add(4, 6), 11);
-    }
+    it("should return 10", function () {
+        assert.equal(addFn.add(4, 6), 10);
+    });
 })
