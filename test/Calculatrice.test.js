@@ -44,7 +44,7 @@ describe('Division', () => {
     });
 });
 
-
+/*
 describe('Wait', () => {
     it('should exist', () => {
         assert.notEqual(calculatrice.wait, undefined)
@@ -56,3 +56,4 @@ describe('Wait', () => {
         });
     });
 });
+*/
